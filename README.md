@@ -1,0 +1,2 @@
+# patika.devSQLodevler
+SQL ödevleri
